@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+.header {
+  background-color: aquamarine;
+  color: blueviolet;
+}
+
+button {
+  padding: 1.5rem;
+  background-color: burlywood;
+}
+
+.reachedFive {
+  color: blue;
+}
